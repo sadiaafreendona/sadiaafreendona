@@ -2,4 +2,4 @@
 - 👀 I’m interested in Manual Testing
 - 🌱 I’m currently learning Performance Testing, Load testing, Java Basics for Test Automation
 - 💞️ I’m looking to collaborate on Manual Test projects
-- 📫 How to reach me: sadiaafreen7025@gmail.com
+- 📫 How to reach me: sadiaafreendiu1028@gmail.com
