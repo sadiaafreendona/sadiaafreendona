@@ -1,5 +1,5 @@
 - 👋 Hi, I am Afreen, @sadiaafreendona
-- ⚡ I’m interested in Automation Testing,Machine Learning and Data Science.
+- ⚡ I’m interested in Automation Testing, Machine Learning and Data Science.
 - 🌱 I’m currently learning Automation Testing/Selenium as well as Machine Learning/Python.
 - 💞️ I’m looking to collaborate on Automation Test Projects and ML Research based Projects in Future.
 - 📫 How to reach me: sadiaafreendiu1028@gmail.com
